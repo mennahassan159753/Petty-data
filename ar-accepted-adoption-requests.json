@@ -1,0 +1,240 @@
+[
+    {
+        "id": "4Boyk",
+        "fullname": "أحمد حسن",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "01129384313",
+        "email": "user10@gmail.com",
+        "pet_information": {
+            "name": "أنوبيس",
+            "age": "3",
+            "species": "Dog",
+            "gender": "أنثى",
+            "weight": "18",
+            "breed": "بلدي مصري",
+            "description": "أنوبيس هو كلب وفي ونشيط يستمتع بالمشي الطويل ولعب الجلب. لديه فرو أسود لامع ومزاج ودود.",
+            "image_url": "pexels-mark-glancy-721708-1564506.jpg"
+        }
+    },
+    {
+        "id": "WSbvS",
+        "fullname": "سما حسن",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "01159832136",
+        "email": "user11@gmail.com",
+        "pet_information": {
+            "name": "نفرتيتي",
+            "age": "2",
+            "species": "Dog",
+            "gender": "أنثى",
+            "weight": "15",
+            "breed": "كلب الصيد المصري",
+            "description": "نفرتيتي هي كلبة رشيقة وأنيقة بفراء ناعم وأذنين كبيرتين معبرتين. هي ذكية ووفية، مما يجعلها رفيقة مثالية للعائلات النشطة.",
+            "image_url": "cute-spitz.jpg"
+        }
+    },
+    {
+        "id": "ClPop",
+        "fullname": "أحمد محمد",
+        "address": "الجيزة",
+        "phone_number": "01152839463",
+        "email": "user21@gmail.com",
+        "pet_information": {
+            "name": "أبولو",
+            "age": "1",
+            "species": "Bird",
+            "gender": "ذكر",
+            "weight": "1",
+            "breed": "ببغاء",
+            "description": "قصة أبولو ملونة مثل ريشه! هذا الطائر الشاب اللامع وجد طريقه إلى إنقاذ الحيوانات المائية في 16 أبريل 2024، من موزع اعتبره \"غير مثالي\" بسبب ذيله القصير.",
+            "image_url": "bird2.jpg"
+        }
+    },
+    {
+        "id": "RkB87",
+        "fullname": "هناء حسن",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "01198361031",
+        "email": "user12@gmail.com",
+        "pet_information": {
+            "name": "سفينكس",
+            "age": "3",
+            "species": "Dog",
+            "gender": "ذكر",
+            "weight": "18",
+            "breed": "بلدي مصري",
+            "description": "سفينكس هو كلب ودود وحنون بفرو مميز مخطط. هو لطيف ويحب لعب الجلب في الحديقة. سفينكس يتعامل جيدًا مع الأطفال والحيوانات الأليفة الأخرى.",
+            "image_url": "friendly-smart-basenji-dog-giving-his-paw-close-up-isolated-white.jpg"
+        }
+    },
+    {
+        "id": "dRSh1",
+        "fullname": "أحمد حسين",
+        "address": "الجيزة",
+        "phone_number": "01172638456",
+        "email": "user15@gmail.com",
+        "pet_information": {
+            "name": "بيلا",
+            "age": "3",
+            "species": "Dog",
+            "gender": "أنثى",
+            "weight": "15",
+            "breed": "جولدن ريتريفر",
+            "description": "بيلا هي كلبة لطيفة وحنونة من نوع جولدن ريتريفر. تستمتع بالسباحة وقضاء الوقت في الهواء الطلق مع عائلتها. هي أيضًا مطيعة جدًا ومتحمسة لإرضاء.",
+            "image_url": "pexels-hoy-605262-1390784.jpg"
+        }
+    },
+    {
+        "id": "084xq",
+        "fullname": "أحمد محمد",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "0112835173",
+        "email": "user14@gmail.com",
+        "pet_information": {
+            "name": "عنخ",
+            "age": "4",
+            "species": "Dog",
+            "gender": "أنثى",
+            "weight": "18",
+            "breed": "ماستيف مصري",
+            "description": "عنخ هو كلب قوي وحامي ببنية قوية وطباع وفية. هو واثق ولا يخشى شيء، مما يجعله كلب حراسة ممتاز. عنخ أيضًا لطيف وحنون مع عائلته.",
+            "image_url": "pexels-svetozar-milashevich-99573-1490908.jpg"
+        }
+    },
+    {
+        "id": "ubt0r",
+        "fullname": "يوسف محمد",
+        "address": "الجيزة",
+        "phone_number": "01134432127",
+        "email": "user18@gmail.com",
+        "pet_information": {
+            "name": "أوليفر",
+            "age": "3",
+            "species": "Cat",
+            "gender": "ذكر",
+            "weight": "14",
+            "breed": "مين كون",
+            "description": "أوليفر هو قط مين كون مهيب وودود. لديه فرو طويل فاخر وأذنان مهدبتان. يعرف أوليفر بشخصيته الهادئة ويتعامل جيدًا مع الأطفال والحيوانات الأليفة الأخرى.",
+            "image_url": "pexels-catscoming-1543793.jpg"
+        }
+    },
+    {
+        "id": "ntc8h",
+        "fullname": "محمد يوسف",
+        "address": "الجيزة",
+        "phone_number": "01134821349",
+        "email": "user19@gmail.com",
+        "pet_information": {
+            "name": "سيمبا",
+            "age": "2",
+            "species": "Cat",
+            "gender": "أنثى",
+            "weight": "16",
+            "breed": "بنجال",
+            "description": "سيمبا هو قط بنجال نشط ومرح. لديه مظهر بري مع بقع مميزة وفراء ناعم. سيمبا يحب الألعاب التفاعلية ويستمتع باستكشاف بيئته. هو مليء بالطاقة والفضول.",
+            "image_url": "pexels-tatiana-azatskaya-3616232.jpg"
+        }
+    },
+    {
+        "id": "awAjX",
+        "fullname": "حسن علي",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "01172436464",
+        "email": "user20@gmail.com",
+        "pet_information": {
+            "name": "ليولا",
+            "age": "1",
+            "species": "Cat",
+            "gender": "أنثى",
+            "weight": "1",
+            "breed": "حمامة",
+            "description": "ليولا هي مثال حي على كيفية إلهام الحمام لنا كل يوم بشجاعته وصلابته! كانت ليولا صغيرة عندما وجدت بإصابة خطيرة في ساقها استدعت جراحة بتر طارئة لإنقاذ حياتها.",
+            "image_url": "bird1.jpeg"
+        }
+    },
+    {
+        "id": "RkB87",
+        "fullname": "هناء حسن",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "01198361031",
+        "email": "user12@gmail.com",
+        "pet_information": {
+            "name": "سفينكس",
+            "age": "3",
+            "species": "Dog",
+            "gender": "ذكر",
+            "weight": "18",
+            "breed": "بلدي مصري",
+            "description": "سفينكس هو كلب ودود وحنون بفرو مميز مخطط. هو لطيف ويحب لعب الجلب في الحديقة. سفينكس يتعامل جيدًا مع الأطفال والحيوانات الأليفة الأخرى.",
+            "image_url": "friendly-smart-basenji-dog-giving-his-paw-close-up-isolated-white.jpg"
+        }
+    },
+    {
+        "id": "4TO2i",
+        "fullname": "محمد علي",
+        "address": "الجيزة",
+        "phone_number": "0113426789",
+        "email": "user17@gmail.com",
+        "pet_information": {
+            "name": "لونا",
+            "age": "3",
+            "species": "Cat",
+            "gender": "أنثى",
+            "weight": "4",
+            "breed": "سيامي",
+            "description": "لونا هي قطة سيامي أنيقة وصوتية. تستمتع بالمحادثات مع أصحابها وتحب أن تكون مركز الاهتمام. لونا أيضًا حنونة جدًا وتحب العناق.",
+            "image_url": "cute-domestic-kitten-sits-window-staring-outside-generative-ai.jpg"
+        }
+    },
+    {
+        "id": "zgpcl",
+        "fullname": "يوسف علي",
+        "address": "القاهرة - مدينة نصر",
+        "phone_number": "01003457583",
+        "email": "user22@gmail.com",
+        "pet_information": {
+            "name": "ستاردست",
+            "age": "1",
+            "species": "Bird",
+            "gender": "ذكر",
+            "weight": "1",
+            "breed": "براكيت",
+            "description": "ستاردست هو براكيت يبحث عن منزل دائم مع صديقه زيجي!",
+            "image_url": "bird3.jpeg"
+        }
+    },
+    {
+        "id": "eHFPq",
+        "fullname": "محمد حسن",
+        "address": "الجيزة",
+        "phone_number": "0112537447",
+        "email": "user23@gmail.com",
+        "pet_information": {
+            "name": "ترتوغ",
+            "age": "1",
+            "species": "Other",
+            "gender": "ذكر",
+            "weight": "12",
+            "breed": "سلحفاة روسية",
+            "description": "ترتوغ هو ذكر بالغ جذاب من السلاحف الروسية. كان لديه بعض الأضرار القديمة في الصدفة عندما تم تسليمه لأول مرة ولكن تم تنظيفها بشكل جيد. ترتوغ لديه شهية كبيرة ويحب أن يكون له حظيرة في الهواء الطلق.",
+            "image_url": "other1.jpg"
+        }
+    },
+    {
+        "id": "AhNr0",
+        "fullname": "محمد جمال",
+        "address": "الجيزة",
+        "phone_number": "01578278332",
+        "email": "user25@gmail.com",
+        "pet_information": {
+            "name": "سلحفاة 3",
+            "age": "1",
+            "species": "Other",
+            "gender": "أنثي",
+            "weight": "6",
+            "breed": "سلحفاة",
+            "description": "كان لديه بعض الأضرار القديمة في الصدفة عندما تم تسليمه لأول مرة ولكن تم تنظيفها بشكل جيد. ترتوغ لديه شهية كبيرة ويحب أن يكون له حظيرة في الهواء الطلق.",
+            "image_url": "other2.jpg"
+        }
+    }
+]

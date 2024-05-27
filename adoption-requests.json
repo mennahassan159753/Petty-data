@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jU3UY",
+    "fullname": "Omar Ahemd",
+    "address": "giza",
+    "phone_number": "01222733232",
+    "email": "user26@gmail.com",
+    "pet_information": {
+      "name": "Nemo",
+      "age": "1",
+      "species": "Other",
+      "gender": "female",
+      "weight": "0.5",
+      "breed": "Amphiprion ocellaris",
+      "description": "Nemo is a vibrant male clownfish with distinctive orange and white stripes. He is very active and enjoys swimming among coral reefs. Nemo is easy to care for and is compatible with other peaceful fish species.",
+      "image_url": "pexels-mart-production-8434726.jpg"
+    }
+  },
+  {
+    "id": "T0qFq",
+    "fullname": "Omar Mohamed",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01524384652",
+    "email": "user27@gmail.com",
+    "pet_information": {
+      "name": "Bubbles",
+      "age": "1",
+      "species": "Other",
+      "gender": "female",
+      "weight": "0.3",
+      "breed": "Carassius auratus",
+      "description": "Bubbles is a graceful female goldfish with shimmering scales and a long, flowing tail. She enjoys exploring her tank and interacting with colorful decorations. Bubbles is a low-maintenance pet and brings a sense of tranquility to any environment.",
+      "image_url": "pexels-monstera-12660120.jpg"
+    }
+  },
+  {
+    "id": "HpYeN",
+    "fullname": "",
+    "address": "",
+    "phone_number": "",
+    "email": "",
+    "pet_information": {
+      "name": "",
+      "age": "",
+      "species": "",
+      "gender": "",
+      "breed": "",
+      "description": "",
+      "image_url": ""
+    }
+  }
+]
