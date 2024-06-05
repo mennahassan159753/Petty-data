@@ -1,0 +1,290 @@
+[
+  {
+    "id": "4Boyk",
+    "fullname": "Ahmed Hassan",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01129384313",
+    "email": "user10@gmail.com",
+    "pet_information": {
+      "name": "Anubis",
+      "age": "3",
+      "species": "Dog",
+      "gender": "female",
+      "weight": "18",
+      "breed": "Egyptian Baladi",
+      "description": "Anubis is a loyal and energetic dog who enjoys long walks and playing fetch. He has a glossy black coat and a friendly disposition.",
+      "image_url": "pexels-mark-glancy-721708-1564506.jpg"
+    }
+  },
+  {
+    "id": "WSbvS",
+    "fullname": "Sama Hassan",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01159832136",
+    "email": "user11@gmail.com",
+    "pet_information": {
+      "name": "Nefertiti",
+      "age": "2",
+      "species": "Dog",
+      "gender": "female",
+      "weight": "15",
+      "breed": "Egyptian Pharaoh Hound",
+      "description": "Nefertiti is a graceful and elegant dog with a sleek coat and large, expressive ears. She is intelligent and loyal, making her an ideal companion for active families.",
+      "image_url": "cute-spitz-removebg.png"
+    }
+  },
+  {
+    "id": "ClPop",
+    "fullname": "Ahmed Mohamed",
+    "address": "giza",
+    "phone_number": "01152839463",
+    "email": "user21@gmail.com",
+    "pet_information": {
+      "name": "Apollo",
+      "age": "1",
+      "species": "Bird",
+      "gender": "male",
+      "weight": "1",
+      "breed": " Parrot ",
+      "description": "Apollo's tale is as colorful as his feathers! This vibrant young bird found his way to J&R Aquatic Animal Rescue on April 16, 2024, from a distributor who deemed him \"imperfect\" due to his short tail. ",
+      "image_url": "bird2.jpg"
+    }
+  },
+  {
+    "id": "RkB87",
+    "fullname": "Hana Hassan",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01198361031",
+    "email": "user12@gmail.com",
+    "pet_information": {
+      "name": "Sphinx",
+      "age": "3",
+      "species": "Dog",
+      "gender": "male",
+      "weight": "18",
+      "breed": "Egyptian Baladi",
+      "description": "Sphinx is a friendly and affectionate dog with a distinctive brindle coat. He is gentle and loves to play fetch in the park. Sphinx gets along well with children and other pets.",
+      "image_url": "friendly-smart-basenji-dog-giving-his-paw-close-up-isolated-white.jpg"
+    }
+  },
+  {
+    "id": "dRSh1",
+    "fullname": "Ahmed Hussein",
+    "address": "giza",
+    "phone_number": "01172638456",
+    "email": "user15@gmail.com",
+    "pet_information": {
+      "name": "Bella",
+      "age": "3",
+      "species": "Dog",
+      "gender": "female",
+      "weight": "15",
+      "breed": "Golden Retriever",
+      "description": "Bella is a gentle and affectionate Golden Retriever. She enjoys swimming and spending time outdoors with her family. She's also very obedient and eager to please.",
+      "image_url": "pexels-hoy-605262-1390784.jpg"
+    }
+  },
+  {
+    "id": "084xq",
+    "fullname": "Ahmed Mohamed",
+    "address": "Cairo-Nacer city",
+    "phone_number": "0112835173",
+    "email": "user14@gmail.com",
+    "pet_information": {
+      "name": "Ankh",
+      "age": "4",
+      "species": "Dog",
+      "gender": "female",
+      "weight": "18",
+      "breed": "Egyptian Mastiff",
+      "description": "Ankh is a strong and protective dog with a powerful build and a loyal temperament. He is confident and fearless, making him an excellent guard dog. Ankh is also gentle and affectionate with his family.",
+      "image_url": "pexels-svetozar-milashevich-99573-1490908.jpg"
+    }
+  },
+  {
+    "id": "ubt0r",
+    "fullname": "Youssef Mohamed",
+    "address": "giza",
+    "phone_number": "01134432127",
+    "email": "user18@gmail.com",
+    "pet_information": {
+      "name": "Oliver",
+      "age": "3",
+      "species": "Cat",
+      "gender": "male",
+      "weight": "14",
+      "breed": "Maine Coon",
+      "description": "Oliver is a majestic and gentle Maine Coon cat. He has a luxurious long fur coat and tufted ears. Oliver is known for his laid-back personality and gets along well with children and other pets.",
+      "image_url": "pexels-catscoming-1543793.jpg"
+    }
+  },
+  {
+    "id": "ntc8h",
+    "fullname": "Mohamed youssef",
+    "address": "giza",
+    "phone_number": "01134821349",
+    "email": "user19@gmail.com",
+    "pet_information": {
+      "name": "Simba",
+      "age": "2",
+      "species": "Cat",
+      "gender": "female",
+      "weight": "16",
+      "breed": "Bengal",
+      "description": "Simba is an active and playful Bengal cat. He has a wild appearance with distinctive spots and a sleek coat. Simba loves interactive toys and enjoys exploring his environment. He's full of energy and curiosity.",
+      "image_url": "pexels-tatiana-azatskaya-3616232.jpg"
+    }
+  },
+  {
+    "id": "awAjX",
+    "fullname": "Hassan Ali",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01172436464",
+    "email": "user20@gmail.com",
+    "pet_information": {
+      "name": "Loyola",
+      "age": "1",
+      "species": "Bird",
+      "gender": "female",
+      "weight": "1",
+      "breed": "Dove  Pigeon",
+      "description": "Loyola is the perfect example of how pigeons inspire us every day with their bravery and resilience! Little Loyola was just a baby when she was found with one of her legs so badly injured that she needed emergency amputation surgery to save her life.",
+      "image_url": "bird1.jpeg"
+    }
+  },
+  {
+    "id": "RkB87",
+    "fullname": "Hana Hassan",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01198361031",
+    "email": "user12@gmail.com",
+    "pet_information": {
+      "name": "Sphinx",
+      "age": "3",
+      "species": "Dog",
+      "gender": "male",
+      "weight": "18",
+      "breed": "Egyptian Baladi",
+      "description": "Sphinx is a friendly and affectionate dog with a distinctive brindle coat. He is gentle and loves to play fetch in the park. Sphinx gets along well with children and other pets.",
+      "image_url": "friendly-smart-basenji-dog-giving-his-paw-close-up-isolated-white.jpg"
+    }
+  },
+  {
+    "id": "4TO2i",
+    "fullname": "Mohamed Ali",
+    "address": "giza",
+    "phone_number": "0113426789",
+    "email": "user17@gmail.com",
+    "pet_information": {
+      "name": "Luna",
+      "age": "3",
+      "species": "Cat",
+      "gender": "female",
+      "weight": "4",
+      "breed": "Siamese",
+      "description": "Luna is an elegant and vocal Siamese cat. She enjoys engaging in conversations with her owners and loves to be the center of attention. Luna is also very affectionate and enjoys cuddling.",
+      "image_url": "cute-domestic-kitten-sits-window-staring-outside-generative-ai.jpg"
+    }
+  },
+  {
+    "id": "zgpcl",
+    "fullname": "Yousef Ali",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01003457583",
+    "email": "user22@gmail.com",
+    "pet_information": {
+      "name": "Stardust",
+      "age": "1",
+      "species": "Bird",
+      "gender": "male",
+      "weight": "1",
+      "breed": " Parakeet",
+      "description": "Stardust is a parakeet looking for his forever home with his friend, Ziggy!",
+      "image_url": "bird3.jpeg"
+    }
+  },
+  {
+    "id": "eHFPq",
+    "fullname": "Mohamed Hassan",
+    "address": "giza",
+    "phone_number": "0112537447",
+    "email": "user23@gmail.com",
+    "pet_information": {
+      "name": "Turtwig",
+      "age": "1",
+      "species": "Other",
+      "gender": "male",
+      "weight": "12",
+      "breed": " Tortoise ",
+      "description": "Turtwig is an adorable adult male Russian tortoise. He had some old shell damage when he was first surrendered but this cleaned up well. Turtwig has a great appetite and would love an outdoor enclosure.",
+      "image_url": "other1.jpg"
+    }
+  },
+  {
+    "id": "AhNr0",
+    "fullname": "Mohamed Gamal",
+    "address": "giza",
+    "phone_number": "01578278332",
+    "email": "user25@gmail.com",
+    "pet_information": {
+      "name": "Turtle 3",
+      "age": "1",
+      "species": "Other",
+      "gender": "female",
+      "weight": "6",
+      "breed": "Turtle",
+      "description": "it had some old shell damage when he was first surrendered but this cleaned up well. Turtwig has a great appetite and would love an outdoor enclosure.",
+      "image_url": "other2.jpg"
+    }
+  },
+  {
+    "id": "T0qFq",
+    "fullname": "Omar Mohamed",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01524384652",
+    "email": "user27@gmail.com",
+    "pet_information": {
+      "name": "Bubbles",
+      "age": "1",
+      "species": "Other",
+      "gender": "female",
+      "weight": "0.3",
+      "breed": "Carassius auratus",
+      "description": "Bubbles is a graceful female goldfish with shimmering scales and a long, flowing tail. She enjoys exploring her tank and interacting with colorful decorations. Bubbles is a low-maintenance pet and brings a sense of tranquility to any environment.",
+      "image_url": "pexels-monstera-12660120.jpg"
+    }
+  },
+  {
+    "id": "jU3UY",
+    "fullname": "Omar Ahemd",
+    "address": "giza",
+    "phone_number": "01222733232",
+    "email": "user26@gmail.com",
+    "pet_information": {
+      "name": "Nemo",
+      "age": "1",
+      "species": "Other",
+      "gender": "female",
+      "weight": "0.5",
+      "breed": "Amphiprion ocellaris",
+      "description": "Nemo is a vibrant male clownfish with distinctive orange and white stripes. He is very active and enjoys swimming among coral reefs. Nemo is easy to care for and is compatible with other peaceful fish species.",
+      "image_url": "pexels-mart-production-8434726.jpg"
+    }
+  },
+  {
+    "id": "YnySS",
+    "fullname": "Mahmoud Ali",
+    "address": "Cairo-Nacer city",
+    "phone_number": "01235326788",
+    "email": "user89@gmail.com",
+    "pet_information": {
+      "name": "Lovely",
+      "age": "3",
+      "species": "Dog",
+      "gender": "female",
+      "breed": "Egyption balady",
+      "description": "Lovely is a wonderful and beautiful dog looking for a warm and loving home. He is a Golden Retriever, one of the most beloved and popular breeds worldwide, known for their friendly and loyal nature.",
+      "image_url": "pexels-gilberto-reyes-259461-825947.jpg"
+    }
+  }
+]
